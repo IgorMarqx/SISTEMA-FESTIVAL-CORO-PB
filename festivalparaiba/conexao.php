@@ -1,9 +1,9 @@
 <?php
 
 $host = "localhost";
-$user = "festivalparaiban_igor";
-$pass = "igor86531492";
-$name = "festivalparaiban_festivalcorojp";
+$user = "";
+$pass = "";
+$name = "";
 
 $db = new mysqli($host, $user, $pass, $name);
 
