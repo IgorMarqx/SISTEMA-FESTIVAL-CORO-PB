@@ -1,5 +1,5 @@
 # SISTEMA-FESTIVAL-CORO-PB
-- Sistema feito para a FEPAC - FESTIVAL DE CORO DA PARAIBA. Nesse sistema foi implementado uma área de cadastro onde o usuário vai colocar suas informações e o formulário faz o envio para o banco de dados, onde o ADMIN tem sua interface onde poderá ver todos os usuários cadastrados, contendo a função de (EDITAR, APAGAR, VER MAIS e IMPRIMIR). Também foi implementado um sistema de paginação e filtro de pesquisa.
+- Sistema feito para a FEPAC - FESTIVAL DE CORO DA PARAIBA. Nesse sistema foi implementado uma área de cadastro onde o usuário vai colocar suas informações e o formulário faz o envio para o banco de dados, e o ADMIN tem sua interface onde poderá ver todos os usuários cadastrados, contendo a função de (EDITAR, APAGAR, VER MAIS e IMPRIMIR). Também foi implementado um sistema de paginação e filtro de pesquisa.
 
 
 
