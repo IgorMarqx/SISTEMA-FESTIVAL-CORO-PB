@@ -1,0 +1,66 @@
+:root {
+    --linha: #E8E8E8;
+    --gray: #E0E0E0;
+}
+
+.edicao {
+    border: 1px solid var(--linha);
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2rem;
+}
+
+.forms {
+    width: 100%;
+}
+
+.title-edit h3 {
+    font-size: 1.7rem;
+    font-weight: bold;
+}
+
+.button {
+    display: flex;
+    width: 98%;
+}
+
+.button input {
+    width: 100%;
+}
+
+.voltar {
+    padding: 0;
+}
+
+.voltar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttons {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.excluir {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 40vh;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.button a {
+    width: 10%;
+}
+
+.none {
+    height: auto;
+}

@@ -1,0 +1,101 @@
+:root {
+    --main: #FFAB00;
+    --text: #1C1E28;
+    --error: #ff0000;
+    --fundo: #191921;
+    --black: #000;
+    --second: #e3e3e3a9;
+}
+
+h1,
+h2,
+h3 {
+    margin: 0;
+    padding: 0;
+}
+
+p,
+span,
+a {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+body {
+    background-color: var(--background);
+    height: 125vh;
+}
+
+label,
+.nick {
+    color: var(--background-2);
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--background);
+}
+
+.header img {
+    width: 9rem;
+}
+
+.header h1 {
+    font-weight: bold;
+    margin-bottom: .25rem;
+    color: var(--main);
+}
+
+.cabeca h2 {
+    display: flex;
+    justify-content: center;
+    font-weight: 500;
+    color: var(--text);
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.principal {
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+}
+
+.nick {
+    font-weight: bold;
+    font-size: 1.7rem;
+    padding: 0;
+    margin: 0;
+}
+
+.buttonSubmit {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 98%;
+    /* border: 1px solid red; */
+}
+
+.atencao {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    color: var(--error);
+}
+
+.form {
+    background-color: var(--second);
+    border-radius: 1vh;
+    border: 2px solid var(--main);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
