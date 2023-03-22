@@ -1,33 +1,37 @@
 # SISTEMA-FESTIVAL-CORO-PB
-- Sistema feito para a FEPAC - FESTIVAL DE CORO DA PARAIBA. Nesse sistema foi implementado uma área de cadastro onde o usuário vai colocar suas informações e o formulário faz o envio para o banco de dados, e o ADMIN tem sua interface onde poderá ver todos os usuários cadastrados, contendo a função de (EDITAR, APAGAR, VER MAIS e IMPRIMIR). Também foi implementado um sistema de paginação e filtro de pesquisa.
+- Olá! Estou empolgado em apresentar o Sistema FEPAC - Festival de Coros da Paraíba, desenvolvido para facilitar o processo de inscrição e gerenciamento de usuários cadastrados. Aqui estão alguns destaques importantes do sistema:
 
-- OBS: Totalmente responsivo para dispositivos mobiles.
+- Gerenciamento de usuários simplificado: O ADMIN tem sua própria interface onde pode visualizar, editar, apagar e imprimir os dados dos usuários cadastrados. Além disso, o sistema tem a função de paginação e filtro de pesquisa, o que torna o processo de gerenciamento ainda mais fácil.
+
+- OBS: Totalmente responsivo para dispositivos móveis: Este sistema é totalmente responsivo, ou seja, pode ser facilmente acessado em dispositivos móveis, tornando-o ainda mais acessível.
 
 
-- Ficha de inscrição
+- Área de cadastro fácil de usar: O sistema oferece um formulário intuitivo para os usuários preencherem suas informações, que são então enviadas para o banco de dados. Isso significa que todo o processo de inscrição é rápido e eficiente.
 
  ![imagem_2023-03-21_171958111](https://user-images.githubusercontent.com/100423634/226731200-0870885b-a36c-4926-b5dc-076964125ed6.png)
  
- - Sistema de login para a interface do ADMIN com todas as SESSIONS e COOKIES para não deixar ninguem acessar sem estar logado
+- Sistema de login seguro: O sistema de login é seguro e requer autenticação para acessar a interface do ADMIN. O sistema utiliza SESSIONS e COOKIES para garantir que apenas usuários autorizados tenham acesso às informações.
  
  ![imagem_2023-03-21_172356888](https://user-images.githubusercontent.com/100423634/226732010-b84eb18e-edcb-46f6-8cff-34ea97ba49ca.png)
 
-- Página principal onde tem a lista de Usuários do banco de dados junto com a paginação e o filtro de pesquisa
+- Página principal amigável: A página principal do sistema exibe uma lista de usuários do banco de dados, juntamente com a opção de paginação e filtro de pesquisa. Essa função torna o processo de encontrar usuários específicos muito mais fácil.
 
 ![imagem_2023-03-21_172852350](https://user-images.githubusercontent.com/100423634/226733038-c6dbc537-080e-4212-9d99-65ef6424aca8.png)
 
-- Função editar 
+- Função de edição: O sistema possui a função de edição, que permite ao ADMIN editar as informações do usuário no banco de dados.
 
 ![imagem_2023-03-21_173130189](https://user-images.githubusercontent.com/100423634/226733577-eb93a445-a02f-4778-aa23-80d349aec0f4.png)
 
-- Também implementado a função de imprimir a ficha do candidato selecionado
+- Função de impressão: O sistema também possui a função de imprimir a ficha do candidato selecionado, facilitando ainda mais o processo de gerenciamento de usuários.
 
 ![imagem_2023-03-21_173233004](https://user-images.githubusercontent.com/100423634/226733803-dd9800bc-c046-4bf7-a44d-555fdec453ab.png)
 
-- A página de ver mais possui todas as informações do usuário selecionado para visualizar todas as informações
+- Página de ver mais: A página de ver mais permite que o ADMIN visualize todas as informações do usuário selecionado, para facilitar o gerenciamento de informações.
 
 ![imagem_2023-03-21_173320244](https://user-images.githubusercontent.com/100423634/226733970-c4e7bfb0-580b-4aa8-bd6d-d5c26ad771cb.png)
 
-- E por fim a função de excluir o usuário
+- Função de exclusão: Por fim, o sistema também possui a função de exclusão, o que significa que o ADMIN pode excluir os usuários que não precisam mais estar no banco de dados.
 
 ![imagem_2023-03-21_173452514](https://user-images.githubusercontent.com/100423634/226734275-60405500-e9be-4692-9d24-2c1441499d5b.png)
+
+Em resumo, o Sistema FEPAC - Festival de Coros da Paraíba é um sistema completo, fácil de usar e seguro, que facilita todo o processo de inscrição e gerenciamento de usuários.
